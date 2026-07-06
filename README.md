@@ -1,16 +1,17 @@
-## Hi there 👋
+Oioi, eu sou o Cleiton! 👋
 
-<!--
-**Cleiton-777/Cleiton-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Aluno do IFRN campus Parelhas. Adoro resolver problemas através do código e estou sempre buscando aprender novas tecnologias.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim
+
+- 🔭 Atualmente estou estudando desenvolimento de software e banco de dados
+- 🌱 No momento estou aprofundando meus conhecimentos em: Programação
+- 💬 Pode me dar um toque para conversar sobre SQL
+- ⚡ Um fato curioso sobre mim: Curto animes/mangas e etc
+- 🌕 Preguiçoso
+  
+---
+
+- 💠 Frase de minha autoria: "A coroa não pesa pelo ouro, mas sim pelas histórias que não pude viver"
