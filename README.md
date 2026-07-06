@@ -1,4 +1,4 @@
-*Oioi, eu sou o Cleiton! 👋*
+# Oioi, eu sou o Cleiton! 👋
 
 Sou um Aluno do IFRN campus Parelhas. Adoro resolver problemas através do código e estou sempre buscando aprender novas tecnologias.
 
